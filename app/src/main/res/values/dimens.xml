@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_input_dialog">200dp</dimen>
+    <dimen name="input_width">150dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="margin_two">2dp</dimen>
+    <dimen name="close_image_width">50dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="total_weight_size">20sp</dimen>
+</resources>
